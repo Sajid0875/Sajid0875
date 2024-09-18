@@ -20,7 +20,6 @@ building cool projects, and collaborating with the tech community.
 
 ### Projects 💻
 - **ATM Application in C:** A simple ATM system simulation using C.
-- **[Add any other project you're working on]**
 
 ### Let's Connect 🌐
 - **Email:** sajidislam0875@gmail.com
