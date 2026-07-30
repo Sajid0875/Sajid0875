@@ -1,17 +1,17 @@
 # Hello, I'm Sajid Islam 👋
 
 ### About Me
-I'm a Computer Science student at FAST University, currently exploring the world of coding,
-algorithms, and technology. I'm passionate about learning new programming languages, 
- and collaborating with the tech community.
+I'm passionate about the Artificial Intelligence , currently exploring the world of coding,
+algorithms, and technology. Always looking for the opportunities to learn 
+ and collaborate with the tech community.
 
 ### What I'm Learning 
-- **C Programming:** Understanding the basics of programming, data structures, and problem-solving.
+- **C/C++ Programming:** Understanding the basics of programming, data structures, and problem-solving.
 - **Web Development:** Starting with HTML, CSS, and JavaScript to build interactive web applications.
 - **Data Structures and Algorithms:** Improving problem-solving skills with various algorithms and data structures.
 
--  **Exploring how basic ai agents works and their work flows.
--  ** AI and   ML
+- **Machine Learning and Deep learning :** Working on ML AND DL .
+- **Agentic AI and RAG :** Doing projects in Agentic AI .
   
 
 ### My Interests 
